@@ -1,5 +1,5 @@
 package behaviors.visitor;
 
-public interface IHomeAppliances extends IProduct, IVisitable{
+public interface IHomeAppliances extends IProduct{
 
 }

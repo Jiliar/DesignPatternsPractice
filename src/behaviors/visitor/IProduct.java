@@ -1,5 +1,5 @@
 package behaviors.visitor;
 
-public interface IProduct {
+public interface IProduct extends IVisitable{
     float getPrice();
 }
